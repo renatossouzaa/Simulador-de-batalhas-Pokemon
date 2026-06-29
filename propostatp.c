@@ -1,9 +1,3 @@
-/*
-Aluno: Renato Silva 
-Matricula: 2024013664
-
-*/
-
 #include <stdio.h>
 #include <string.h>
 #define MAX_POKEMON 100
